@@ -1,0 +1,84 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    text-decoration: none;
+    color: black;
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.titulo{
+    background-color: black;
+    color: green;
+    text-transform: uppercase;
+}
+
+.home {
+    text-align: right;
+    background-color: black;
+}
+
+
+.div-header {
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+
+.input-pesquisa {
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+
+.btn-pesquisa {
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    /* background-color: #2196F3; */
+    padding: 10px;
+    gap: 50px 30px;
+}
+
+.grid-item {
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    border: 40px solid rgba(0, 0, 0, 0.8);
+    padding: 60px 60px 30px 30px;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-grow: inherit; /*inherit acomapnha o elemento pai */
+    background-color: black;
+    border-radius: 20px;
+}
+
+.pagina {
+    background-color: black;
+    color: green;
+}
+
+#cad-usuario {
+    text-align: center;
+    padding: 5px;
+}
