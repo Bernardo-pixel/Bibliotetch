@@ -1,0 +1,28 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "fname": "Luciane",
+      "lname": "Pohlod",
+      "email": "lu@lu.com",
+      "telefone": "11989876765",
+      "cpf": "56543432322"
+    },
+    {
+      "id": 2,
+      "fname": "Luciane",
+      "lname": "Pohlod",
+      "email": "lu@lu.com",
+      "telefone": "11989876765",
+      "cpf": "56543432322"
+    },
+    {
+      "id": 3,
+      "fname": "Bernardo",
+      "lname": "Trapp",
+      "email": "bernardinho.trapp@gmail.com",
+      "telefone": "41992427142",
+      "cpf": "12312312312"
+    }
+  ]
+}
